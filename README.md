@@ -1,0 +1,2 @@
+# danang
+barang dagang
